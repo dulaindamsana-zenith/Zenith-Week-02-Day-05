@@ -1,4 +1,4 @@
-# Project Zenith — Week 02 (Day 05): Python Loops & Cryptographic Logic
+# Project Zenith - Week 02 (Day 05): Python Loops & Cryptographic Logic
 
 ![System Reliability](https://img.shields.io/badge/SR-100%25-brightgreen)
 ![Target Module](https://img.shields.io/badge/Module-Python%20Control%20Flow%20%26%20Loops-blue)
@@ -32,7 +32,6 @@ The core focus of this operational window is mastering Python control structures
 ## Repository Structure & Module Breakdown
 
 ```text
-.
 ├── Day_Project_2.py        # Interactive Zenith Encryptor CLI menu & wrapper
 ├── zenith_encryptor_2.py   # Cryptographic engine module (AES, RSA, UTF-8 logic)
 ├── task_1_2.py             # Basic iterable state tracking via for-loops
@@ -99,9 +98,9 @@ cat zenith_ledger_2.log
 ## Author
 **Author:** Colabage Dulain Damsana
 **Career Target:** Quantum Cyber Physicist  
-**Project Zenith v4.0** — *2-Hour Isolation Container*
+**Project Zenith v4.0** - *2-Hour Isolation Container*
 
 ---
 
 ## License
-This project is licensed under the
+This project is licensed under the MIT license

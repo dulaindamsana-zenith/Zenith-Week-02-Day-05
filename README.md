@@ -1,4 +1,4 @@
-# ⚡ Project Zenith — Week 02 (Day 05): Python Loops & Cryptographic Logic
+# Project Zenith — Week 02 (Day 05): Python Loops & Cryptographic Logic
 
 ![System Reliability](https://img.shields.io/badge/SR-100%25-brightgreen)
 ![Target Module](https://img.shields.io/badge/Module-Python%20Control%20Flow%20%26%20Loops-blue)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 This repository contains the programmatic deliverables and experimental scripts developed during **Week 2 (Day 05)** of the **Project Zenith v4.0 Quantum Cyber Physicist Roadmap**. 
 
@@ -15,7 +15,7 @@ The core focus of this operational window is mastering Python control structures
 
 ---
 
-## 📊 Session Metrics (`zenith_ledger_2.log`)
+## Session Metrics (`zenith_ledger_2.log`)
 
 | Parameter | Ledger Record |
 | :--- | :--- |
@@ -29,7 +29,7 @@ The core focus of this operational window is mastering Python control structures
 
 ---
 
-## 📁 Repository Structure & Module Breakdown
+## Repository Structure & Module Breakdown
 
 ```text
 .
@@ -68,7 +68,7 @@ Implements modulo-based numerical evaluation across a 100-step range container t
 
 ---
 
-## ⚙️ Execution Instructions
+## Execution Instructions
 
 Run all modules directly inside the native Linux Mint CLI environment:
 
@@ -88,13 +88,20 @@ cat zenith_ledger_2.log
 
 ---
 
-## 🎯 Verification & Portfolio Compliance
+## Verification & Portfolio Compliance
 
 * **100% CLI Native Execution**: Developed entirely without GUI automation tools in accordance with Project Zenith rules.
 * **Defensive Error Logging**: Monitored and validated against debug intercepts to ensure continuous $SR \ge 90.0\%$ reliability.
 * **Public Code Ledger**: Formatted for timestamped verification on GitHub.
 
 ---
-**Author:** Colabage Dulain Damsana  
+
+## Author
+**Author:** Colabage Dulain Damsana
 **Career Target:** Quantum Cyber Physicist  
 **Project Zenith v4.0** — *2-Hour Isolation Container*
+
+---
+
+## License
+This project is licensed under the
